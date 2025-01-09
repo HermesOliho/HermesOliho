@@ -46,7 +46,7 @@ Découvrez mes autres projets dans les [repositories](https://github.com/HermesO
 ## 📬 Me contacter
 
 - 💼 LinkedIn : [hermes-oliho-a74b57264](https://www.linkedin.com/in/hermes-oliho-a74b57264/))
-- 📫 Email : [hermes.oliho.m@gmail.com](mailto:hermes.oliho.m@gmail.com)[hermesmatabishi@outlook.com](mailto:hermesmatabishi@outlook.com)
+- 📫 Email : [hermes.oliho.m@gmail.com](mailto:hermes.oliho.m@gmail.com), [hermesmatabishi@outlook.com](mailto:hermesmatabishi@outlook.com)
 <!--- 🌐 Portfolio : [votre-site-web.com](https://votre-site-web.com)-->
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à **forker** mes projets ou à collaborer avec moi.
