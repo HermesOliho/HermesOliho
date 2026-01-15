@@ -1,52 +1,71 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Welcome to my GitHub Profile!
 
-Je suis un **développeur web fullstack** passionné par la création d'applications performantes et bien conçues. Mon expertise couvre à la fois le **back-end** et le **front-end**, avec une forte attention à l'optimisation et à l'expérience utilisateur.
+I'm a **Full Stack Web Developer** passionate about building performant and well-designed applications. My expertise spans both **back-end** and **front-end** development, with a strong focus on **Laravel** and modern JavaScript frameworks.
 
 ---
 
-## 🔧 Technologies et compétences
+## 🔧 Technologies & Skills
 
-### 🌐 Développement web
-- **Back-end** : Laravel, PHP
-- **Front-end** : VueJS, Angular, HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks CSS** : Tailwind CSS, Bootstrap
-- **Préprocesseurs CSS** : Sass
+### 🌐 Web Development
+- **Back-end**: Laravel, PHP
+- **Front-end**: VueJS, Angular, HTML5, CSS3, JavaScript (ES6+)
+- **CSS Frameworks**: Tailwind CSS, Bootstrap
+- **CSS Preprocessors**: Sass
 
-### 🛠️ Outils et environnements
-- Gestion des versions avec **Git** et **GitHub**
-- **Shell scripting** : Bash, PowerShell
-- Développement avec **Vite**, **Webpack**, et **npm/yarn**
-- Bases de données : MySQL/MariaDB, SQLite
-- API RESTful et intégration front-back
+### 🛠️ Tools & Environments
+- Version control with **Git** and **GitHub**
+- **Shell scripting**: Bash, PowerShell
+- Development with **Vite**, **Webpack**, and **npm/yarn**
+- Databases: MySQL/MariaDB, SQLite
+- RESTful APIs and front-back integration
 
 ### 🎨 Design
-- Responsive design et architecture front-end moderne
-- Accessibilité (a11y) et bonnes pratiques UX/UI
+- Responsive design and modern front-end architecture
+- Accessibility (a11y) and UX/UI best practices
 
 ---
 
-## 📈 Objectifs actuels
+## 📈 Current Goals
 
-- 💡 Créer des solutions innovantes pour automatiser les processus complexes
-- 🌱 Apprendre davantage sur l'architecture logicielle et les microservices
-- 🚀 Partager mes connaissances avec la communauté des développeurs
-
----
-
-## 🌍 Projets et contributions
-
-- 🔗 **[ExamAuth](https://github.com/HermesOliho/ExamAuth-Frontend.git)** : Plateforme web permettant l'authentification par carte bancaire dans une université ; elle est basée sur Laravel et VueJS.
-- 🛒 **[Application de suivi des commandes](https://github.com/HermesOliho/suivi-commandes-online.git)** : Gestion d'un système complet de e-commerce.
-- 📧 **Système de newsletters avancé** : Formation par email intégrée à une application Laravel.
-
-Découvrez mes autres projets dans les [repositories](https://github.com/HermesOliho?tab=repositories).
+- 💡 Create innovative solutions to automate complex processes
+- 🌱 Learn more about software architecture and microservices
+- 🚀 Share my knowledge with the developer community
 
 ---
 
-## 📬 Me contacter
+## 🌍 Projects & Contributions
 
-- 💼 LinkedIn : [hermes-oliho-a74b57264](https://www.linkedin.com/in/hermes-oliho-a74b57264/))
-- 📫 Email : [hermes.oliho.m@gmail.com](mailto:hermes.oliho.m@gmail.com), [hermesmatabishi@outlook.com](mailto:hermesmatabishi@outlook.com)
-<!--- 🌐 Portfolio : [votre-site-web.com](https://votre-site-web.com)-->
+### Featured Projects
+- 🔗 **[ExamAuth](https://github.com/HermesOliho/ExamAuth-Frontend.git)**: Web platform enabling bank card authentication in a university setting, built with Laravel and modern front-end technologies
+- 📋 **[stageApp_FacSciencesUcb](https://github.com/HermesOliho/stageApp_FacSciencesUcb)**: Complete internship management application with multi-role authentication, dashboard statistics, and Livewire components
+- 🛒 **[Order Tracking Application](https://github.com/HermesOliho/suivi-commandes-online.git)**: Complete e-commerce system management
+- 📧 **Advanced Newsletter System**: Email training integrated into a Laravel application
+- 📚 **[learn-php](https://github.com/HermesOliho/learn-php)**: PHP learning resources and exercise solutions
 
-Merci de visiter mon profil GitHub ! N'hésitez pas à **forker** mes projets ou à collaborer avec moi.
+### Recent Contributions
+- Implemented internship management features with status tracking (ongoing, completed, abandoned)
+- Developed live dashboard statistics for company metrics
+- Built authentication systems with multi-role support
+- Created responsive UI components with Livewire
+- Contributed to GDG-OC UCB Bukavu community projects including messaging and weather applications
+
+Discover more projects in my [repositories](https://github.com/HermesOliho?tab=repositories).
+
+---
+
+## 📬 Contact Me
+
+- 💼 LinkedIn: [hermes-oliho-a74b57264](https://www.linkedin.com/in/hermes-oliho-a74b57264/)
+- 📫 Email: [hermes.oliho.m@gmail.com](mailto:hermes.oliho.m@gmail.com), [hermesmatabishi@outlook.com](mailto:hermesmatabishi@outlook.com)
+
+Thank you for visiting my GitHub profile! Feel free to **fork** my projects or collaborate with me.
+
+---
+
+## 📊 GitHub Analytics (All time)
+
+![HermesOliho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesOliho&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesOliho&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HermesOliho&theme=radical)
