@@ -68,4 +68,4 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesOliho&layout=compact&theme=radical&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HermesOliho&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HermesOliho)](https://git.io/streak-stats)
