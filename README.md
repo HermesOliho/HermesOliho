@@ -62,10 +62,17 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 
 ---
 
-## 📊 GitHub Analytics (All time)
+## 📊 GitHub Analytics
 
-![HermesOliho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesOliho&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HermesOliho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HermesOliho&layout=compact&theme=radical&langs_count=8"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesOliho&layout=compact&theme=radical&langs_count=8)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HermesOliho&theme=radical" alt="GitHub Streak"/>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HermesOliho)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HermesOliho&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
