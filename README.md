@@ -97,8 +97,8 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 ## 📊 GitHub Analytics
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&screen_effect=true&theme=blue_chill">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&theme=summer">
 </picture>
 
