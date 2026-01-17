@@ -96,15 +96,12 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HermesOliho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HermesOliho&layout=compact&theme=radical&langs_count=8"/>
-</div>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=HermesOliho&theme=summer">
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HermesOliho&theme=radical" alt="GitHub Streak"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HermesOliho)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HermesOliho&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HermesOliho)](https://github.com/ryo-ma/github-profile-trophy)
