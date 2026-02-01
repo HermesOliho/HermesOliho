@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/HermesOliho.svg)](https://user-badge.committers.top/congo_kinshasa_private/HermesOliho)
+
 # 👋 Welcome to my GitHub Profile!
 
 I'm a **Full Stack Web Developer** passionate about building performant and well-designed applications. My expertise spans both **back-end** and **front-end** development, with a strong focus on **Laravel** and modern JavaScript frameworks like **Vue.js** and **TypeScript**.
@@ -106,4 +108,4 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HermesOliho)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/HermesOliho.svg)](https://user-badge.committers.top/congo_kinshasa_private/HermesOliho)
+
