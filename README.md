@@ -2,15 +2,15 @@
 
 # 👋 Welcome to my GitHub Profile!
 
-I'm a **Full Stack Web Developer** passionate about building performant and well-designed applications. My expertise spans both **back-end** and **front-end** development, with a strong focus on **Laravel** and modern JavaScript frameworks like **Vue.js** and **TypeScript**.
+I'm a **Full Stack Web Developer** passionate about building performant and well-designed applications. My expertise spans both **back-end** and **front-end** development, with a strong focus on **Laravel** and modern JavaScript frameworks like **Vue.js**, **Nuxt.js**, and **TypeScript**.
 
 ---
 
 ## 🔧 Technologies & Skills
 
 ### 🌐 Web Development
-- **Back-end**: Laravel, PHP (8.x+)
-- **Front-end**: Vue.js, Angular, TypeScript, HTML5, CSS3, JavaScript (ES6+)
+- **Back-end**: Laravel, PHP (8.x+), Livewire
+- **Front-end**: Vue.js, Nuxt.js, Angular, TypeScript, HTML5, CSS3, JavaScript (ES6+)
 - **CSS Frameworks**: Tailwind CSS, Bootstrap
 - **Template Engines**: Blade, Vue Components
 - **CSS Preprocessors**: Sass
@@ -20,6 +20,7 @@ I'm a **Full Stack Web Developer** passionate about building performant and well
 - **Shell scripting**: Bash, PowerShell
 - Development with **Vite**, **Webpack**, and **npm/yarn**
 - **Containerization**: Docker
+- **Deployment**: Vercel, Traditional hosting
 - Databases: MySQL/MariaDB, SQLite
 - RESTful APIs and front-back integration
 
@@ -50,18 +51,26 @@ I'm a **Full Stack Web Developer** passionate about building performant and well
 - 📋 **[stageApp_FacSciencesUcb](https://github.com/HermesOliho/stageApp_FacSciencesUcb)**: Complete internship management system with multi-role authentication, dashboard statistics, and Livewire components for the Faculty of Sciences at UCB
 - 📊 **[UCBGestionProjets](https://github.com/HermesOliho/UCBGestionProjets)**: Project management system for the Catholic University of Bukavu (Laravel + Blade)
 - 🔗 **[ExamAuth](https://github.com/HermesOliho/ExamAuth-Frontend.git)**: Web platform enabling bank card authentication in a university setting
+- 💊 **[pharma-gp](https://github.com/HermesOliho/pharma-gp)**: Pharmaceutical product management application (TypeScript) - [Live Demo](https://pharma-gp.vercel.app)
+- 🏥 **[PharmaHospital](https://github.com/HermesOliho/PharmaHospital)**: Hospital pharmacy management system (Laravel + PHP)
 
 ### 💻 Modern Frontend Applications
 - 🔄 **[workflow-hub-frontend](https://github.com/HermesOliho/workflow-hub-frontend)**: Workflow management platform built with TypeScript (98.7%)
 - 🎨 **[dan-project-frontend](https://github.com/HermesOliho/dan-project-frontend)**: Modern Vue.js application with TypeScript (Vue 79.2%, TypeScript 15.9%)
 - 💰 **[MyFinanx](https://github.com/HermesOliho/MyFinanx)**: Financial management application built with Vue.js and TypeScript
+- 💵 **[finanxia](https://github.com/HermesOliho/finanxia)**: Personal & professional financial management application (TypeScript)
+- 💄 **[glamtouch-kivu-beauty](https://github.com/HermesOliho/glamtouch-kivu-beauty)**: Beauty business website (TypeScript) - [Live Demo](https://glamtouch-kivu-beauty.vercel.app)
+- 🎬 **[herbox](https://github.com/HermesOliho/herbox)**: Streaming website built with Vue.js
+- 🎥 **[herbox-pro](https://github.com/HermesOliho/herbox-pro)**: Advanced streaming website built with Nuxt.js
+- 🌐 **[myportfolio](https://github.com/HermesOliho/myportfolio)**: Personal portfolio website (Vue.js)
 
 ### 📚 Educational Resources
 - 📖 **[learn-php](https://github.com/HermesOliho/learn-php)**: "Road to Laravel" bootcamp repository with PHP exercises and learning materials for aspiring developers
 
 ### 🛒 E-commerce & Business Solutions
 - 🛍️ **[Order Tracking Application](https://github.com/HermesOliho/suivi-commandes-online.git)**: Complete e-commerce system management
-- 📧 **Advanced Newsletter System**: Email training integrated into a Laravel application
+- 📧 Advanced Newsletter System: Email training integrated into a Laravel application
+- 🌾 **[gestion-ferme](https://github.com/HermesOliho/gestion-ferme)**: Farm management application (Laravel + PHP)
 
 ### 🌟 Recent Contributions
 - Implemented internship management features with status tracking (ongoing, completed, abandoned)
@@ -70,6 +79,7 @@ I'm a **Full Stack Web Developer** passionate about building performant and well
 - Created responsive UI components with Livewire and Vue.js
 - Contributed to GDG-OC UCB Bukavu community projects including messaging and weather applications
 - Mentored students through "Road to Laravel" bootcamp program
+- Deployed multiple applications on Vercel for production use
 
 Discover more projects in my [repositories](https://github.com/HermesOliho?tab=repositories).
 
@@ -77,12 +87,12 @@ Discover more projects in my [repositories](https://github.com/HermesOliho?tab=r
 
 ## 📊 Project Statistics
 
-- **Total Projects**: 10+ active repositories
-- **Primary Stack**: Laravel + Vue.js + TypeScript
+- **Total Projects**: 46+ active repositories
+- **Primary Stack**: Laravel + Vue.js/Nuxt.js + TypeScript
 - **Language Distribution**:
   - PHP/Laravel: 60-75% (Backend development)
   - Blade Templates: 20-40% (Server-side rendering)
-  - Vue.js/TypeScript: 80-98% (Modern frontend)
+  - Vue.js/Nuxt.js/TypeScript: 80-98% (Modern frontend)
   - JavaScript/CSS: 5-15% (UI enhancements)
 
 ---
@@ -107,5 +117,3 @@ Thank you for visiting my GitHub profile! Feel free to **fork** my projects or c
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HermesOliho)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HermesOliho)](https://github.com/ryo-ma/github-profile-trophy)
-
-
